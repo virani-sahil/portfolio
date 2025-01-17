@@ -24,7 +24,7 @@ const Contact = () => {
                             <a target='_blank' href="https://www.linkedin.com/in/sahil-virani-9462b3346/">
                                 <FaLinkedinIn className='p-1 text-mainColor hover:bg-mainColor hover:text-mainBg transition-all duration-100' size={45} />
                             </a>
-                            <a target='_blank' href="">
+                            <a target='_blank' href="mailto:viranisahil004@gmail.com">
                                 <MdEmail className='p-1 text-mainColor hover:bg-mainColor hover:text-mainBg transition-all duration-100' size={45} />
                             </a>
                             <a target='_blank' href='https://github.com/virani-sahil'>

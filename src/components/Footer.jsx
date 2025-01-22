@@ -7,7 +7,7 @@ const Footer = () => {
                     <h1 >- Developed by</h1>
                     <h1 className="font-bold text-2xl"> SAHILBHAI VIRANI</h1>
                 </div>
-                <a href="#home"><button className="bg-mainColor text-black font-bold py-1 px-2 rounded-md">Home</button></a>
+                <a href="#home"><button className="bg-mainColor text-black font-bold py-1 px-2 rounded-md shadow-sm shadow-mainColor hover:bg-mainBg hover:text-mainColor transition-all duration-300">Home</button></a>
             </div>
         </>
     )

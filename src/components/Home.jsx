@@ -42,17 +42,17 @@ const Home = () => {
                         <div className=' pt-10'>
                             <div className='flex gap-12 '>
                                 <a target='_blank' href="https://www.linkedin.com/in/sahil-virani-9462b3346/">
-                                    <FaLinkedinIn className='contact3 border-2 border-mainColor p-1 rounded-full text-mainColor hover:bg-mainColor hover:text-mainBg transition-all duration-100' size={45} />
+                                    <FaLinkedinIn className=' border-2 border-mainColor p-1 rounded-full text-mainColor hover:bg-mainColor hover:text-mainBg' size={45} />
                                 </a>
                                 <a target='_blank' href='https://github.com/virani-sahil'>
-                                    <FaGithub className='contact2 border-2 border-mainColor rounded-full p-1 text-mainColor hover:bg-mainColor hover:text-mainBg transition-all duration-100' size={45} />
+                                    <FaGithub className=' border-2 border-mainColor rounded-full p-1 text-mainColor hover:bg-mainColor hover:text-mainBg' size={45} />
                                 </a>
                                 <a target='_blank' href="mailto:viranisahil004@gmail.com">
-                                    <MdEmail className='contact1 border-2 border-mainColor p-1 rounded-full text-mainColor hover:bg-mainColor hover:text-mainBg transition-all duration-100' size={45} />
+                                    <MdEmail className=' border-2 border-mainColor p-1 rounded-full text-mainColor hover:bg-mainColor hover:text-mainBg' size={45} />
                                 </a>
                             </div>
                             <div className='pt-10'>
-                                <a href="SAHIL_VIRANI.pdf" download="SAHIL_VIRANI.pdf">
+                                <a href="sahil-virani.pdf" download="sahil-virani.pdf">
                                     <button className='bg-mainColor text-secondaryBg rounded-3xl  px-4 py-2 text-center shadow-sm shadow-mainColor hover:bg-mainBg hover:text-mainColor transition-all duration-300'>Download cv</button>
                                 </a>
                             </div>
